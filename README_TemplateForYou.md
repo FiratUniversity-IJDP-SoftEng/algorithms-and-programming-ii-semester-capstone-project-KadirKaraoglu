@@ -104,10 +104,10 @@ O(m + σ)
 
 ## Screenshots
 
-[![Main Interface](docs/screenshots/screenshots 1.png)
+[![Main Interface](docs/screenshots/screenshotshttps://github.com/FiratUniversity-IJDP-SoftEng/algorithms-and-programming-ii-semester-capstone-project-KadirKaraoglu/blob/main/docs/screenshots/screenshots%201.png1.png)
 *Caption describing the main interface*
 
-![Algorithm in Action](docs/screenshots/algorithm_demo.png)
+![Algorithm in Action](docs/screenshots/scre)
 *Caption describing the algorithm in action*
 
 ## Installation
