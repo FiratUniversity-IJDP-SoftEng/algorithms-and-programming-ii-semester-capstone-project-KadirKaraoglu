@@ -247,14 +247,13 @@ A live demo of this application is available at: (https://algorithms-and-program
 
 ### Academic References
 
-1. [Reference 1]
-2. [Reference 2]
-3. [Reference 3]
+1. R. S. Boyer and J. S. Moore, “A Fast String Searching Algorithm,” Communications of the ACM, 1977.
+
 
 ### Online Resources
 
-- [\[Wikipedia\]](https://en.wikipedia.org/wiki/Boyer%E2%80%93Moore_string-search_algorithm)
-- [\[Gemini\]](https://gemini.google.com)
+- [\Wikipedia\](https://en.wikipedia.org/wiki/Boyer%E2%80%93Moore_string-search_algorithm)
+- [\Gemini\](https://gemini.google.com)
 
 ## Author
 
