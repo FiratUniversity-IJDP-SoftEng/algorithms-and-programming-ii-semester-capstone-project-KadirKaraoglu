@@ -252,8 +252,8 @@ A live demo of this application is available at: (https://algorithms-and-program
 
 ### Online Resources
 
-- \[Wikipedia\](https://en.wikipedia.org/wiki/Boyer%E2%80%93Moore_string-search_algorithm)
-- \[Gemini\](https://gemini.google.com)
+- [\[Wikipedia\]](https://en.wikipedia.org/wiki/Boyer%E2%80%93Moore_string-search_algorithm)
+- [\[Gemini\]](https://gemini.google.com)
 
 ## Author
 
