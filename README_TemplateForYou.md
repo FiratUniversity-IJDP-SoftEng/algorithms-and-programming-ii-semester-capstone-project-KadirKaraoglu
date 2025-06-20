@@ -104,7 +104,7 @@ O(m + σ)
 
 ## Screenshots
 
-![Main Interface](docs/screenshots/main_interface.png)
+[![Main Interface](docs/screenshots/main_interface.png)](https://github.com/FiratUniversity-IJDP-SoftEng/algorithms-and-programming-ii-semester-capstone-project-KadirKaraoglu/blob/main/docs/screenshots/screenshots%201.png)
 *Caption describing the main interface*
 
 ![Algorithm in Action](docs/screenshots/algorithm_demo.png)
