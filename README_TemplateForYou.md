@@ -104,11 +104,11 @@ O(m + σ)
 
 ## Screenshots
 
-[![Main Interface](docs/screenshots/screenshotshttps://github.com/FiratUniversity-IJDP-SoftEng/algorithms-and-programming-ii-semester-capstone-project-KadirKaraoglu/blob/main/docs/screenshots/screenshots%201.png1.png)
-*Caption describing the main interface*
+![screenshot 1](<docs/screenshots/screenshots 1.png>)
+It has simple interface . User understands what to do for use aplication
 
-![Algorithm in Action](docs/screenshots/scre)
-*Caption describing the algorithm in action*
+![screenshot 2](<docs/screenshots/screenshots 2.png>)
+Aplication gives index of the found result and it show the found text with yellow color. 
 
 ## Installation
 
