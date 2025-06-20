@@ -253,18 +253,18 @@ A live demo of this application is available at: (https://algorithms-and-program
 
 ### Online Resources
 
-- [\[Resource 1\]](https://en.wikipedia.org/wiki/Boyer%E2%80%93Moore_string-search_algorithm)
-- [\[Resource 3\]](https://gemini.google.com)
+- [\[Wikipedia\]](https://en.wikipedia.org/wiki/Boyer%E2%80%93Moore_string-search_algorithm)
+- [\[Gemini\]](https://gemini.google.com)
 
 ## Author
 
-- **Name:** [Kadir Karaoğlu]
-- **Student ID:** [230543005 ]
-- **GitHub:** [KadirKaraoglu]
+- **Name:** Kadir Karaoğlu
+- **Student ID:** 230543005 
+- **GitHub:** KadirKaraoglu
 
 ## Acknowledgements
 
-I would like to thank Assoc. Prof. Ferhat UÇAR for guidance throughout this project, and [any other acknowledgements].
+I would like to thank Assoc. Prof. Ferhat UÇAR for guidance throughout this project
 
 ---
 
