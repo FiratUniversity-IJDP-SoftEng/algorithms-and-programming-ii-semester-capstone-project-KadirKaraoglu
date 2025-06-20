@@ -1,4 +1,4 @@
-# [The Boyer-Moore Algorithm] - Interactive Visualization
+# The Boyer-Moore Algorithm - Interactive Visualization
 
 ## Project Overview
 
